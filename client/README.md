@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Dragon Token UI using React App
 
-This project was ERC20 Token or Dragon Token .
+This project was a ERC20 based Token named as Dragon Token .
 
 ## Available Scripts
 
@@ -16,6 +16,6 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-### You must install metamaske
+` ### You must install metamaske`
 
 ### change metamaske network to rinkeby
