@@ -1,4 +1,4 @@
-# Basic Sample Hardhat Project
+# Dragon Token ERC20
 
 This was a ERC20 Token called Dragon Token 
 
